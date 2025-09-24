@@ -1,11 +1,3 @@
-"""
-Assignment: Data Analysis with Pandas & Matplotlib
-Author: Your Name
-Description:
-This script loads a dataset, explores it, performs basic analysis,
-and creates visualizations as per assignment instructions.
-"""
-
 # -------------------------------
 # Import required libraries
 # -------------------------------
@@ -111,3 +103,4 @@ print("3. Petal length shows clear separation between species.")
 print("4. Sepal length and petal length are positively correlated.\n")
 
 print("✅ Analysis complete.")
+
